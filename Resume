@@ -38,6 +38,8 @@
 
         </table>
 
+        <br>
+
         <section>
          <h2>EDUCATION</h2>
 
@@ -50,6 +52,8 @@
          </ul>
 
         </section>
+        
+        <br>
 
         <section>
 
@@ -69,6 +73,8 @@
         </ul>
           
         </section>
+        
+        <br>
 
         <section>
             <h1>PROJECTS</h1>
@@ -95,6 +101,8 @@
             </ul>
         </section>
 
+        <br>
+
         <section>
           <h1>PUBLICATIONS</h1>
 
@@ -107,6 +115,9 @@
         </ul>
 
         </section>
+
+        <br>
+        <br>
         
         <footer>
             <p>&#169; 2025 Md Zafar.All right reserved </p>
